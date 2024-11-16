@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:18232E,100:2F3B47&height=210&section=header&text=Ralph%20&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">
+
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ralphdosreis&show_icons=true&theme=dracula&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralphdosreis&layout=compact&langs_count=16&theme=dracula"/>
