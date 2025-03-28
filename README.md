@@ -1,5 +1,5 @@
-<hr><img align="right" width="300" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
-<img align="right" width="300" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
+<hr>
+<img align="left" width="300" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
 <div style="display: inline_block"><br>
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ralphdosreis&show_icons=true&theme=dracula&count_private=true"/>
