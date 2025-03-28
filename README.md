@@ -1,6 +1,6 @@
 <div style="display: block">
   <img align="left" width="300" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
-</div>
+</div><br>
 <div style="display: block">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ralphdosreis&show_icons=true&theme=dracula&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralphdosreis&layout=compact&langs_count=16&theme=dracula"/>
