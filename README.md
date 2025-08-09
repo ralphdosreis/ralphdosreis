@@ -26,5 +26,5 @@
 <div> 
   <a href="https://www.linkedin.com/in/ralph-dos-reis-torres-3163a5271/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+  </a>
 </div>
