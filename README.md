@@ -1,6 +1,6 @@
 # Ralph dos Reis Torres
 
-Estudante de **Ciência da Computação na UFG**, atuando com **Desenvolvimento de Software, Inteligência Artificial, Engenharia de Software e Desenvolvimento Web**. Tenho experiência com desenvolvimento Front-end, Back-end e UI/UX Design, buscando construir soluções funcionais e com boa experiência para o usuário.
+Estudante de **Ciência da Computação na UFG**, atuando com **Desenvolvimento de Software, Inteligência Artificial e Engenharia de Software. Tenho experiência com desenvolvimento Front-end, Back-end e UI/UX Design, buscando construir soluções funcionais e com boa experiência para o usuário.
 
 - 🌱 Estudando: Sistemas Distribuídos, IA Generativa, Machine Learning e Arquitetura de Software
 - 💻 Interesse: Desenvolvimento Full Stack, IA e UI/UX Design
