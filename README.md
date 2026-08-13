@@ -26,8 +26,8 @@ Estudante de **Ciência da Computação na UFG**, atuando com **Desenvolvimento 
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **Chatbot de Orientação Estratégica para Startups** | Chatbot desenvolvido em parceria da UFG com o Ministério da Ciência, Tecnologia e Inovação, com intuito de auxiliar startups por meio de orientações estratégicas, onde tive atuação no Front-end, integração de APIs, lógica da aplicação e refinamento da base de conhecimento. | Python, React, APIs, IA |
-| **Plataforma Digital Imobiliária** | Desenvolvimento de interfaces para uma plataforma imobiliária, com prototipação, fluxos de navegação e biblioteca de componentes. | Figma, UI/UX |
+| **Chatbot de Orientação Estratégica para Startups** | Chatbot desenvolvido em parceria da UFG com o Ministério da Ciência, Tecnologia e Inovação, com intuito de auxiliar startups por meio de orientações estratégicas, onde tive atuação no Front-end, integração de APIs, lógica da aplicação e refinamento da base de conhecimento. | Python, React, IA, Figma |
+| **Plataforma Digital Imobiliária** | Desenvolvimento de interfaces para uma plataforma imobiliária, com prototipação, fluxos de navegação e biblioteca de componentes. | Figma, UI/UX, React |
 
 ## 📚 Atualmente estudando
 
