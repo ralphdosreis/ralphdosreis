@@ -1,6 +1,6 @@
 # Ralph dos Reis Torres
 
-Estudante de **Ciência da Computação na UFG**, atuando com Engenharia de Software e Inteligência Artificial. Tenho experiência com desenvolvimento Front-end, Back-end e UI/UX Design, buscando construir soluções funcionais e com boa experiência para o usuário.
+Estudante de **Ciência da Computação na UFG**, atuando com Engenharia de Software e Inteligência Artificial. Tenho experiência com desenvolvimento Front-end, Back-end e UI/UX Design.
 
 - 🌱 Estudando: Sistemas Distribuídos, IA Generativa, Machine Learning e Arquitetura de Software
 - 💻 Interesse: Desenvolvimento Full Stack, IA e UI/UX Design
@@ -28,13 +28,6 @@ Estudante de **Ciência da Computação na UFG**, atuando com Engenharia de Soft
 |---|---|---|
 | **Chatbot de Orientação Estratégica para Startups** | Chatbot desenvolvido em parceria da UFG com o Ministério da Ciência, Tecnologia e Inovação, com intuito de auxiliar startups por meio de orientações estratégicas, onde tive atuação no Front-end, integração de APIs, lógica da aplicação e refinamento da base de conhecimento. | Python, React, IA, Figma |
 | **Plataforma Digital Imobiliária** | Desenvolvimento de interfaces para uma plataforma imobiliária, com prototipação, fluxos de navegação e biblioteca de componentes. | Figma, React |
-
-## 📚 Atualmente estudando
-
-- 🤖 IA Generativa
-- 🧠 Machine Learning, BI
-- 💻 Desenvolvimento Full Stack 
-- 🎨 UI/UX Design
 
 ## 📫 Contato
 
